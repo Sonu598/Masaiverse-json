@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Ishupriya Rath",
+      "age": 23,
+      "place": "Bhubaneswar",
+      "batch": "FW23",
+      "profession": "FSD",
+      "id": 1
+    }
+  ]
+}
